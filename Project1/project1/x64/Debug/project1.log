@@ -1,0 +1,7 @@
+﻿  objectRecognitionSift.cpp
+c:\users\tejak\downloads\academics\3 image processing\project\project 1\project_code\project1\project1\objectrecognitionsift.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  objectRecognitionBrisk.cpp
+c:\users\tejak\downloads\academics\3 image processing\project\project 1\project_code\project1\project1\objectrecognitionbrisk.cpp(137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  project1.vcxproj -> C:\Users\tejak\Downloads\Academics\3 Image Processing\Project\Project 1\Project_Code\project1\x64\Debug\project1.exe
+  project1.vcxproj -> C:\Users\tejak\Downloads\Academics\3 Image Processing\Project\Project 1\Project_Code\project1\x64\Debug\project1.pdb (Full PDB)

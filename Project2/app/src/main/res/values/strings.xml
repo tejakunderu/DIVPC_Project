@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImageProcessing</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+    <string name="no_filter_text">No Filter</string>
+    <string name="filter_1_text">Grayscale</string>
+    <string name="filter_2_text">Comic</string>
+    <string name="filter_3_text">Blue</string>
+    <string name="filter_4_text">Snow</string>
+    <string name="filter_5_text">Pop Art</string>
+    <string name="filter_6_text">Double Gradient</string>
+</resources>
